@@ -1,0 +1,29 @@
+inventory 5slots
+
+1 [0] rations
+2 [1]  gold
+3 [2]  token of faith
+4 [3]  weapon
+5 [4]  empty refrence fromindex
+
+
+index
+1 potion of attck
+2 token of critical hit 
+3 potion of defense
+
+
+save index
+
+0 name
+1 age
+2 health
+3 con
+4 str
+5 bravery
+6 dex
+7 invenbtory 0  rations
+8 invetory 1 gold
+9 inventory 2 faith
+10  inventory 3 weapon
+11 inventory 4 item
